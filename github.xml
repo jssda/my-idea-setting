@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="jssda" id="b7e205ea-c790-4fde-9888-8392fe8abcdd">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
